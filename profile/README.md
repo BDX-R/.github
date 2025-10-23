@@ -29,6 +29,7 @@ This project is led by [Kayden Kapnik](https://github.com/KaydenKnapik). Find mo
 - [ ] Release stable version of Isaac Lab project repository. (WIP)
 - [ ] Release robot description repository. (WIP)
 - [ ] Complete project documentation website. (WIP)
+- [ ] Complete Description repository with the head.
 - [ ] Release stable version of MjLab project repository.
 - [ ] Release deployment repository for sim-to-sim and sim-to-real.
 - [ ] Release CAD.
