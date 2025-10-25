@@ -25,9 +25,9 @@ This project is led by [Kayden Kapnik](https://github.com/KaydenKnapik). Find mo
 ### Roadmap
 
 - [x] Release Isaac Lab project repository.
-- [ ] Release MjLab project repository. (WIP)
+- [x] Release MjLab project repository.
 - [ ] Release stable version of Isaac Lab project repository. (WIP)
-- [ ] Release robot description repository. (WIP)
+- [x] Release robot description repository. (not on the org yet but on Kayden's GitHub, will be transferred soon)
 - [ ] Complete project documentation website. (WIP)
 - [ ] Complete Description repository with the head.
 - [ ] Release stable version of MjLab project repository.
