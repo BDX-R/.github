@@ -11,12 +11,12 @@ This project is led by [Kayden Kapnik](https://github.com/KaydenKnapik). Find mo
   <tr>
     <td width="50%">
       <figure>
-        <img src="https://github.com/user-attachments/assets/ad0c6a33-1b17-4460-b0b4-5e1a8a642216" controls muted loop playsinline style="width:100%; height:auto;"></img>
+        <img src="https://github.com/user-attachments/assets/ebaaf1d7-0000-455e-be0d-347b004e983d" controls muted loop playsinline style="width:100%; height:auto;"></img>
       </figure>
     </td>
     <td width="50%">
       <figure>
-        <img src="https://github.com/user-attachments/assets/a9a28802-5ae3-40b6-ae62-7ebbd72e79b9" controls muted loop playsinline style="width:100%; height:auto;"></img>
+        <img src="https://github.com/user-attachments/assets/be3493c4-05da-40f7-811c-cb080963d0e2" controls muted loop playsinline style="width:100%; height:auto;"></img>
       </figure>
     </td>
   </tr>
