@@ -17,19 +17,28 @@ Actuator Breakdown:
 Legs (2x)
 
 Hip Yaw: Robstride03
+
 Hip Roll: Robstride03
+
 Hip Pitch: Robstride03
+
 Knee Pitch: Robstride03
+
 Ankle Pitch: Robstride02
 
 Head
 
 Neck Pitch: Robstride02
+
 Head Pitch: Robstride05
+
 Head Yaw: Robstride05
+
 Head Roll: Robstride05
 
+
 Ears (2x)
+
 Ear Pitch: Robstride05
 
 
